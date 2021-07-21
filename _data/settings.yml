@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Zarathu - Medical Research Supporters
 logo: 
-author: themefisher
+author: Zarathu
 description: this is meta description
 email: steve.fruits@email.com
 phone: +880 2544 658 256
@@ -14,7 +14,7 @@ menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: Contact, link: 'https://goo.gl/forms/mWfJseksgOSQuYKt1'}
 
 
 #-------------------------------
@@ -38,10 +38,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 맞춤형 의학통계 앱을 제공합니다.
 
 social:
-- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/zarathucorp"}
 - {icon: "ti-instagram", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
@@ -153,7 +153,7 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "amiecmo2018_chkh.png"
     url: "#"
     
   - image : "assets/images/portfolio/item-2.png"
